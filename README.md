@@ -16,7 +16,7 @@
   
   <h2 id="kingdoms-and-desc">Kingdoms and General Descriptions</h2>
   <a href="#index">Return to Index</a>
-  
+  <p>idk man</p>
   
   <h2 id="general-history">General History</h2>
   <a href="#index">Return to Index</a>
